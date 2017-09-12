@@ -1,3 +1,0 @@
-[Version]
-Current Version=1.0
-Latest Version=1.0
