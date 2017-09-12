@@ -1,2 +1,0 @@
-[Latest Version]
-Version=1.0
